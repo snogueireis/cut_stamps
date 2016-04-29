@@ -1,7 +1,7 @@
 ########################################################
 # Cut a galaxy from a FITS file with an updated header #
-# Author: S. N. dos Reis        					   #
-# Date: April 2016									   #
+# Author: S. N. dos Reis                               #
+# Date: April 2016									                   #
 ########################################################
 
 import pyfits
